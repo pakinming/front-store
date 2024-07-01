@@ -1,8 +1,14 @@
 {
   "hello": "สวัสดี",
-  "welcome": "ยินดีตอนรับ",
   "locale": {
-    "th": "TH",
-    "en": "EN"
-  }
+    "en": "EN",
+    "th": "TH"
+  },
+  "pathUrl": {
+    "about": "เกี่ยวกับ",
+    "contact": "ติดต่อ",
+    "home": "หน้าหลัก",
+    "product": "สินค้า"
+  },
+  "welcome": "ยินดีตอนรับ"
 }

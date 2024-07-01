@@ -1,8 +1,14 @@
 {
   "hello": "Hello",
-  "welcome": "Welcome to my website",
   "locale": {
-    "th": "TH",
-    "en": "EN"
-  }
+    "en": "EN",
+    "th": "TH"
+  },
+  "pathUrl": {
+    "about": "about",
+    "contact": "contact",
+    "home": "home",
+    "product": "product"
+  },
+  "welcome": "Welcome to my website"
 }
